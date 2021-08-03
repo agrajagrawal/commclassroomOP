@@ -1,6 +1,6 @@
-# Community Classroom is Op
+# Community Classroom is OP
 - I am learning some OPEN SOURCE with kunal.
-https://github.com/agrajagrawal/commclassroomOP.git
+- Its a very good tutorial.
 - Kunal Kushwaha says that this community is amazing.
 - Kunal made this change
 
